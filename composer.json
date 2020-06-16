@@ -1,0 +1,15 @@
+{
+  "name": "coolblue-development/git-practice",
+  "description": "Example repository for practicing working with git",
+  "minimum-stability": "stable",
+  "license": "",
+  "authors": [
+    {
+      "name": "Paul James",
+      "email": "p.james@coolblue.nl"
+    }
+  ],
+  "require": {
+    "phpunit/phpunit": "^9.2"
+  }
+}
